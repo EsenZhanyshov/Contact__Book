@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "id": "ce17",
+      "contactName": "Дональд",
+      "contactSurname": "Трамп",
+      "contactPhone": "+1324234",
+      "contactImg": "https://alpinabook.ru/upload/resize_cache/iblock/8d9/550_800_1/8d9cd63476f15e85f0d8796555ab1e6b.jpg"
+    },
+    {
+      "id": "f8be",
+      "contactName": "Раян",
+      "contactSurname": "Гослинг",
+      "contactPhone": "+0909909",
+      "contactImg": "https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/865d2d0e-bac6-4a78-a0ed-17a87b285069/220x330"
+    }
+  ]
+}
